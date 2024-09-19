@@ -1,7 +1,33 @@
-# Comp1238
+# Comp1234
+## Lab Assignment
+* Introduction to Data Management
+1. **Week 3**
 
-## This is _assignment_ in **Introduction to Data Management**
+  **Editing a MarkDown File on GitHub**
 
-## Lab assignment
-##### 1. Week 3
-* Editing a **Markdown file on Github**
+# Number Row Characters
+
+* ! - Exclamation Point
+* @ - commercial at-sign
+* \# - Hashtag
+* % - Percent sign
+* ^ - Hat
+* & - and-sign
+* \* - Asterisk
+* ( - Left Parentheses
+* ) - Right Prentheses
+* _ - Underscore
+* \- - Hyphen
+* = - Equal Sign
+
+# Links
+* [Google](Google.com)
+* [Github](https://github.com/)
+* [George Brown College](https://www.georgebrown.ca/)
+
+  # Experiments
+  1. :+1:
+  2. :smirk:
+  3. :blush:
+  4. :sleeping:
+  5. :smile:
