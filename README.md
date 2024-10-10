@@ -31,3 +31,5 @@
   3. :blush:
   4. :sleeping:
   5. :smile:
+
+[CLI commands](docs/Cli.md)
