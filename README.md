@@ -32,4 +32,4 @@
   4. :sleeping:
   5. :smile:
 
-[CLI commands](docs/Cli.md)
+[CLI commands](Docs/Cli.md)
